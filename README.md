@@ -1,6 +1,4 @@
 # hello-world
-Say hello
+My name is Dirk.
 
-And so I do: Greetings from germany.
-
-My name is Dirk
+Greetings from germany.
